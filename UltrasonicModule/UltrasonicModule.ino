@@ -1,7 +1,4 @@
 /*
- * Credits: www.plusivo.com
- * 
- * Lesson 5: Ultrasonic HC-SR04+
  * 
  * The code below uses an ultrasonic module to measure
  * the distance. 
@@ -12,7 +9,6 @@
  * 
  * The module is powered by the development board. 
  * 
- * For further information, check the guide.
  * 
  */
 
